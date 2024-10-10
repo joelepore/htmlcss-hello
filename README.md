@@ -20,3 +20,8 @@ Dato che conosco e utilizzo regolarmente Git, decido di svolgere l'esercizio nel
     git commit -m "first commit"
     git remote add origin https://github.com/joelepore/htmlcss-hello.git
     git push -u origin master
+5. Creo il file index.html
+6. Creo un nuovo commit e pusho
+    git add .
+    git commit -m "[add] index.html"
+    git push
