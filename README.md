@@ -14,14 +14,22 @@ Dato che conosco e utilizzo regolarmente Git, decido di svolgere l'esercizio nel
 1. Creo il repo su GitHub
 2. Creo il repo localmente
 3. Aggiungo il README.md
-4. Eseguo le seguenti operazioni da terminale per pushare il primo commit 
+4. Eseguo le seguenti operazioni da terminale per pushare il primo commit
+   
     git init
+   
     git add .
+   
     git commit -m "first commit"
+   
     git remote add origin https://github.com/joelepore/htmlcss-hello.git
+   
     git push -u origin master
-5. Creo il file index.html
-6. Creo un nuovo commit e pusho
+6. Creo il file index.html
+7. Creo un nuovo commit e pusho
+   
     git add .
+   
     git commit -m "[add] index.html"
+   
     git push
